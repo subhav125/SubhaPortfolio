@@ -35,7 +35,7 @@ const Home = () => {
   
    
       <div className="card">
-          <img src="sss.JPG" alt="" style={{ width: 100, height: 100 }}></img>
+          <img src="sss.jpg" alt="" style={{ width: 100, height: 130 }}></img>
           <h5>Subha V</h5>
           <div className="c1">
             <h3>🔤Fonts</h3>
